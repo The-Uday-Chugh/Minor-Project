@@ -6,3 +6,5 @@ print("hello world")
 print("hello world")
 print("hello world")
 print("hello world")
+The document.querySelector() and alert() functions are built into the browser.
+
